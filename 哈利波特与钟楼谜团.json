@@ -31,13 +31,13 @@
     "image": "https://www.bloodstar.xyz/usersave/davidyamado/harry/_harry.png",
     "edition": "custom",
     "name": "哈利波特",
-    "ability": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
+    "ability": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。你知道自己是否是魂器。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
     "team": "townsfolk",
     "sch_team": "村民",
     "firstNight": 0,
     "otherNight": 10,
     "firstNightReminder": "",
-    "otherNightReminder": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
+    "otherNightReminder": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。你知道自己是否是魂器。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
     "reminders": [
       "技能已使用"
     ],
