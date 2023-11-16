@@ -39,7 +39,8 @@
     "firstNightReminder": "你得知自己是否是魂器",
     "otherNightReminder": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。你知道自己是否是魂器。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
     "reminders": [
-      "技能已使用"
+      "已使用",
+      "得知自己是魂器"
     ],
     "setup": false
   },
@@ -53,7 +54,7 @@
     "sch_team": "村民",
     "firstNight": 3700,
     "otherNight": 9,
-    "firstNightReminder": "",
+    "firstNightReminder": "最聪明的女巫：每个夜晚，拜访说书人并发表一个声明。如果该声明正确，你会获得一条正确信息。如果该声明错误，你会获得一条错误信息。",
     "otherNightReminder": "最聪明的女巫：每个夜晚，拜访说书人并发表一个声明。如果该声明正确，你会获得一条正确信息。如果该声明错误，你会获得一条错误信息。你的声明越有挑战，你获得的信息越有价值。",
     "reminders": [],
     "setup": false
@@ -120,7 +121,9 @@
     "otherNight": 0,
     "firstNightReminder": "",
     "otherNightReminder": "",
-    "reminders": [],
+    "reminders": [
+      "已使用"
+    ],
     "setup": false
   },
   {
@@ -135,7 +138,10 @@
     "otherNight": 10,
     "firstNightReminder": "",
     "otherNightReminder": "阿兹卡班的囚徒：每个夜晚*，你得知是否有邪恶玩家参与了投票。魂器会被你视为邪恶玩家。",
-    "reminders": [],
+    "reminders": [
+      "坏人已投票",
+      "坏人未投票"
+    ],
     "setup": false
   },
   {
@@ -167,7 +173,9 @@
     "otherNight": 11,
     "firstNightReminder": "忠诚的小精灵：每个夜晚，选择一名存活玩家，你得与他相邻的存活玩家是否属于同一阵营。如果你选择了一名邪恶玩家，你醉酒直到下个黄昏。",
     "otherNightReminder": "忠诚的小精灵：每个夜晚，选择一名存活玩家，你得与他相邻的存活玩家是否属于同一阵营。如果你选择了一名邪恶玩家，你醉酒直到下个黄昏。",
-    "reminders": [],
+    "reminders": [
+      "醉酒"
+    ],
     "setup": false
   },
   {
@@ -180,8 +188,8 @@
     "sch_team": "村民",
     "firstNight": 0,
     "otherNight": 3,
-    "firstNightReminder": "",
-    "otherNightReminder": "",
+    "firstNightReminder": "最强大的巫师：每个夜晚*，选择一名玩家，如果他是魂器，他死亡。",
+    "otherNightReminder": "最强大的巫师：每个夜晚*，选择一名玩家，如果他是魂器，他死亡。",
     "reminders": [],
     "setup": false
   },
@@ -195,8 +203,8 @@
     "sch_team": "村民",
     "firstNight": 0,
     "otherNight": 7,
-    "firstNightReminder": "",
-    "otherNightReminder": "",
+    "firstNightReminder": "唱唱反调：每个白天，你可以做出一项公开声明。如果声明正确，一名玩家在今晚死亡。",
+    "otherNightReminder": "唱唱反调：每个白天，你可以做出一项公开声明。如果声明正确，一名玩家在今晚死亡。",
     "reminders": [
       "谣言致死"
     ],
@@ -229,7 +237,9 @@
     "otherNight": 0,
     "firstNightReminder": "",
     "otherNightReminder": "占卜课教授：每局游戏限一次，公开发布一则预言，你的预言有可能成真。",
-    "reminders": [],
+    "reminders": [
+      "已使用"
+    ],
     "setup": false
   },
   {
@@ -244,7 +254,9 @@
     "otherNight": 8,
     "firstNightReminder": "哭泣的女孩：如果你死亡，恶魔在当晚可以进行一次魂器转移：选择一个新的玩家作为魂器，同时原来在场的一个魂器失效。",
     "otherNightReminder": "如果你死亡，恶魔在当晚可以进行一次魂器转移：选择一个新的玩家作为魂器，同时原来在场的一个魂器失效。如果换到了纳威或哈利波特上，要告诉他们你现在是魂器。",
-    "reminders": [],
+    "reminders": [
+      "无技能"
+    ],
     "setup": false
   },
   {
@@ -312,7 +324,7 @@
     "firstNightReminder": "如果马尔福在场，所有爪牙分开睁眼，得知谁是自己的爪牙队友以及谁是恶魔的信息",
     "otherNightReminder": "迷途知返：你不知道你是马尔福，你以为自己是一个爪牙角色，但其实你不是。",
     "reminders": [
-      "邪恶/魂器"
+      "是马尔福"
     ],
     "setup": false
   },
@@ -326,10 +338,10 @@
     "sch_team": "爪牙",
     "firstNight": 3200,
     "otherNight": 0.4,
-    "firstNightReminder": "",
+    "firstNightReminder": "迫害者：游戏开始时，你得知本局存在的外来者身份。当一名外来者在白天死亡时，当晚，你选择一名玩家，将他杀害。[+1外来者]",
     "otherNightReminder": "迫害者：游戏开始时，你得知本局存在的外来者身份。当一名外来者在白天死亡时，当晚，你选择一名玩家，将他杀害。[+1外来者]",
     "reminders": [
-      "已迫害"
+      "被杀害"
     ],
     "setup": false
   },
@@ -343,7 +355,7 @@
     "sch_team": "爪牙",
     "firstNight": 3300,
     "otherNight": 0.5,
-    "firstNightReminder": "",
+    "firstNightReminder": "摄神取念：每个夜晚，选择一名玩家和一个事件，明天他需要试图说服大家这件事真实存在，如果他不这么做，他可能会被处决。",
     "otherNightReminder": "摄神取念：每个夜晚，选择一名玩家和一个事件，明天他需要试图说服大家这件事真实存在，如果他不这么做，他可能会被处决。",
     "reminders": [],
     "setup": false
@@ -395,7 +407,7 @@
     "firstNightReminder": "偷梁换柱：每个夜晚，选择一名存活玩家(需与上一夜不同)，明天，当他被处决时，他不会死亡。",
     "otherNightReminder": "偷梁换柱：每个夜晚，选择一名存活玩家(需与上一夜不同)，明天，当他被处决时，他不会死亡。",
     "reminders": [
-      "不会被处决"
+      "处决不死亡"
     ],
     "setup": true
   },
