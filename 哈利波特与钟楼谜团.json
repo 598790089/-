@@ -68,7 +68,7 @@
     "sch_team": "村民",
     "firstNight": 3,
     "otherNight": 3,
-    "firstNightReminder": "",
+    "firstNightReminder": "一生挚友：每个夜晚*，你得知与你相邻的存活玩家是否是魂器。棋高一着：每个白天和夜晚，你都可以牺牲自己。你死亡时，可以带走一名玩家。",
     "otherNightReminder": "一生挚友：每个夜晚*，你得知与你相邻的存活玩家是否是魂器。棋高一着：每个白天和夜晚，你都可以牺牲自己。你死亡时，可以带走一名玩家。",
     "reminders": [
       "罗恩带走"
