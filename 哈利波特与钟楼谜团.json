@@ -256,7 +256,7 @@
     "team": "outsider",
     "sch_team": "外来者",
     "firstNight": 3601,
-    "otherNight": 1
+    "otherNight": 1,
     "firstNightReminder": "被预言选中的人：你以为你是哈利波特，但实际上你是纳威。你得知你自己是否是魂器。",
     "otherNightReminder": "你以为你是哈利波特，但实际上你是纳威。你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。你知道自己是否是魂器。每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
     "reminders": [],
