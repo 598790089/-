@@ -34,8 +34,8 @@
     "ability": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。你知道自己是否是魂器。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
     "team": "townsfolk",
     "sch_team": "村民",
-    "firstNight": 3601,
-    "otherNight": 10,
+    "firstNight": 3602,
+    "otherNight": 1.5,
     "firstNightReminder": "你知道自己是否是魂器",
     "otherNightReminder": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。你知道自己是否是魂器。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
     "reminders": [
@@ -255,9 +255,9 @@
     "ability": "被预言选中的人：你以为你是哈利波特，但实际上你是纳威。你死亡时所有人会知道你的身份，得知你死亡后，当晚所有善良玩家过于悲痛，不会发动技能，直到第二天黄昏。",
     "team": "outsider",
     "sch_team": "外来者",
-    "firstNight": 0,
+    "firstNight": 3601,
     "otherNight": 1,
-    "firstNightReminder": "被预言选中的人：你以为你是哈利波特，但实际上你是纳威。你死亡时所有人会知道你的身份，得知你死亡后，当晚所有善良玩家过于悲痛，不会发动技能，直到第二天黄昏。",
+    "firstNightReminder": "被预言选中的人：你以为你是哈利波特，但实际上你是纳威。你得知你自己是否是魂器。",
     "otherNightReminder": "",
     "reminders": [],
     "remindersGlobal": [
@@ -479,7 +479,7 @@
     "name": "拂晓时",
     "team": "fabled",
     "ability": "每天拂晓时所有人会知道当前还有几块魂器在场。",
-    "firstNight": 14,
+    "firstNight": 4000,
     "otherNight": 21
   }
 ]
