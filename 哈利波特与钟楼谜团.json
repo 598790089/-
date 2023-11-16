@@ -243,7 +243,7 @@
     "firstNight": 0,
     "otherNight": 8,
     "firstNightReminder": "哭泣的女孩：如果你死亡，恶魔在当晚可以进行一次魂器转移：选择一个新的玩家作为魂器，同时原来在场的一个魂器失效。",
-    "otherNightReminder": "",
+    "otherNightReminder": "如果你死亡，恶魔在当晚可以进行一次魂器转移：选择一个新的玩家作为魂器，同时原来在场的一个魂器失效。如果换到了纳威或哈利波特上，要告诉他们你现在是魂器。",
     "reminders": [],
     "setup": false
   },
