@@ -36,7 +36,7 @@
     "sch_team": "村民",
     "firstNight": 3602,
     "otherNight": 1.5,
-    "firstNightReminder": "你知道自己是否是魂器",
+    "firstNightReminder": "你得知自己是否是魂器",
     "otherNightReminder": "大难不死的男孩：你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。你知道自己是否是魂器。除你武器：每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
     "reminders": [
       "技能已使用"
@@ -67,7 +67,7 @@
     "team": "townsfolk",
     "sch_team": "村民",
     "firstNight": 3900,
-    "otherNight": 3,
+    "otherNight": 4,
     "firstNightReminder": "一生挚友：每个夜晚*，你得知与你相邻的存活玩家是否是魂器。棋高一着：每个白天和夜晚，你都可以牺牲自己。你死亡时，可以带走一名玩家。",
     "otherNightReminder": "一生挚友：每个夜晚*，你得知与你相邻的存活玩家是否是魂器。棋高一着：每个白天和夜晚，你都可以牺牲自己。你死亡时，可以带走一名玩家。",
     "reminders": [
@@ -99,7 +99,7 @@
     "team": "townsfolk",
     "sch_team": "村民",
     "firstNight": 0,
-    "otherNight": 4,
+    "otherNight": 3,
     "firstNightReminder": "",
     "otherNightReminder": "大个子看守：每个夜晚*，选择两名其他玩家（需与上一晚不同）。如果他们都是善良玩家，他们在今晚不会死亡。如果你被恶魔杀害，他们一同被杀。",
     "reminders": [
@@ -147,7 +147,7 @@
     "team": "townsfolk",
     "sch_team": "村民",
     "firstNight": 0,
-    "otherNight": 2,
+    "otherNight": 0.1,
     "firstNightReminder": "石墩出动：每局游戏限一次，你需要公开念出咒语“石墩出动！”，如果足够有气势，当晚所有邪恶阵营玩家失去能力（醉酒），直到下个黄昏。",
     "otherNightReminder": "石墩出动：每局游戏限一次，你需要公开念出咒语“石墩出动！”，如果足够有气势，当晚所有邪恶阵营玩家失去能力（醉酒），直到下个黄昏。",
     "reminders": [
@@ -258,7 +258,7 @@
     "firstNight": 3601,
     "otherNight": 1,
     "firstNightReminder": "被预言选中的人：你以为你是哈利波特，但实际上你是纳威。你得知你自己是否是魂器。",
-    "otherNightReminder": "",
+    "otherNightReminder": "你以为你是哈利波特，但实际上你是纳威。你在夜晚被恶魔选择时，可能有其他玩家代替你死亡。你知道自己是否是魂器。每局游戏限一次，选择一名玩家，如果他是恶魔，当晚他无法行动。",
     "reminders": [],
     "remindersGlobal": [
       "其实是纳威"
@@ -308,7 +308,7 @@
     "team": "outsider",
     "sch_team": "外来者",
     "firstNight": 1500,
-    "otherNight": 0,
+    "otherNight": 0.2,
     "firstNightReminder": "如果马尔福在场，所有爪牙分开睁眼，得知谁是自己的爪牙队友以及谁是恶魔的信息",
     "otherNightReminder": "迷途知返：你不知道你是马尔福，你以为自己是一个爪牙角色，但其实你不是。",
     "reminders": [
