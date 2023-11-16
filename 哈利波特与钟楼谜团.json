@@ -472,8 +472,8 @@
   {
     "id": "21_jing",
     "image": "https://www.bloodstar.xyz/p/sui/jing/21_jing.png",
-    "firstNightReminder": "拂晓时",
-    "otherNightReminder": "拂晓时",
+    "firstNightReminder": "每天拂晓时所有人会知道当前还有几块魂器在场",
+    "otherNightReminder": "每天拂晓时所有人会知道当前还有几块魂器在场",
     "name": "拂晓时",
     "team": "fabled",
     "ability": "每天拂晓时所有人会知道当前还有几块魂器在场。",
