@@ -344,7 +344,7 @@
     "reminders": [
       "被杀害"
     ],
-    "setup": false
+    "setup": true
   },
   {
     "id": "abe42621-9c70-45c0-81c7-ef83cacb1d33",
@@ -393,7 +393,7 @@
     "reminders": [
       "邪恶之火"
     ],
-    "setup": false
+    "setup": true
   },
   {
     "id": "a5c7e293-4a3b-4210-bacf-260ec5bc4b11",
@@ -410,7 +410,7 @@
     "reminders": [
       "处决不死亡"
     ],
-    "setup": true
+    "setup": false
   },
   {
     "id": "0a1e6a12-7cd9-43dd-a722-2fdeda7c2421",
